@@ -1,4 +1,4 @@
-- Hi, I'm Adi
+- Hi, I'm Aditya Amrit
 - I'm a student persuing BE in Information Science
 - Besides Programming and learning different new techs,I’m pretty much interested in Sketching,  Anime/ Manga to name the few.
 - I’m currently learning Full Stack Java and continuing with Microservices using Spring cloud features 
