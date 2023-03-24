@@ -1,8 +1,4 @@
-- Hi, I'm Aditya Amrit
-- I'm a student persuing BE in Information Science
-- I’m currently learning Full Stack Java and continuing with Microservices using Spring cloud features 
-- Planning to explore more about DevOps and Blockchain
-- Besides Programming and learning different new techs,I’m pretty much interested in Sketching,  Anime/ Manga to name the few.
+
 
 
 <!---
